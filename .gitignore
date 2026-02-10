@@ -1,0 +1,17 @@
+# Credenciais / segredos
+.env
+*.key
+*.pem
+
+# OS / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Artefatos temporários
+__pycache__/
+*.tmp
