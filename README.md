@@ -55,13 +55,6 @@ Este repositório reúne os **códigos e artefatos** utilizados para a replicaç
 
 ---
 
-## Segurança e boas práticas
-
-- **NÃO** suba tokens, chaves, credenciais, IDs sensíveis ou dados pessoais reais.
-- Se necessário, use variáveis de ambiente/arquivos locais e mantenha-os fora do repositório (ver `.gitignore`).
-
----
-
 ## Licença
 
 Este repositório está sob licença MIT (ver `LICENSE`).
